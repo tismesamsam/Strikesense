@@ -1,0 +1,63 @@
+{
+  "session_id": "20251003T082547Z",
+  "timestamp": "2025-10-03T08:25:47.226240Z",
+  "left_count": 4,
+  "right_count": 7,
+  "events": [
+    {
+      "time": 1759479937.089631,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479937.6059103,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479938.4993782,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479938.7949607,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479939.1053834,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479939.5851574,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479939.5851574,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479940.7771904,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479940.9714177,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479941.3446422,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479941.900219,
+      "hand": "right",
+      "type": "cross"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "session_id": "20251003T082506Z",
+  "timestamp": "2025-10-03T08:25:06.410131Z",
+  "left_count": 17,
+  "right_count": 16,
+  "events": [
+    {
+      "time": 1759479877.8180697,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479878.6964688,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479879.293365,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479879.7360911,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479890.5396142,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479890.5396142,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479891.2251086,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479891.4670563,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479891.7187126,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479891.9195817,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479896.2809532,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479896.7408543,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479897.0803099,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479897.669464,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479897.8142412,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479898.7197127,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479898.7780542,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479899.2683778,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479899.2683778,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479899.7990716,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479899.7990716,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479900.2975419,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479900.2975419,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479901.195562,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479901.25622,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479901.9832048,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479902.1607249,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479903.580378,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479903.580378,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479904.3731222,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479904.4964092,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479904.9839516,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479904.9839516,
+      "hand": "right",
+      "type": "cross"
+    }
+  ]
+}

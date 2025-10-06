@@ -1,0 +1,88 @@
+{
+  "session_id": "20251003T081642Z",
+  "timestamp": "2025-10-03T08:16:42.770003Z",
+  "left_count": 9,
+  "right_count": 7,
+  "events": [
+    {
+      "time": 1759479394.6075497,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479395.1466715,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479396.4822843,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479397.2613418,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479397.6894162,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479397.7833354,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479398.212526,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479398.8562639,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479399.371291,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479399.4344208,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479399.9264688,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479400.380537,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479400.9884634,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479401.4420743,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479402.0645459,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759479402.655877,
+      "hand": "right",
+      "type": "cross"
+    }
+  ]
+}

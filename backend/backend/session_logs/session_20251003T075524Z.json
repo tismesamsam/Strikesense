@@ -1,0 +1,1293 @@
+{
+  "session_id": "20251003T075524Z",
+  "timestamp": "2025-10-03T07:55:24.234626Z",
+  "left_count": 108,
+  "right_count": 149,
+  "events": [
+    {
+      "time": 1759477523.168117,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477587.4834075,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477587.6261182,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477588.5109146,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477589.1060886,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477589.1060886,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477589.6583126,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477589.9353545,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477599.8882086,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477599.8882086,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477600.6073673,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477600.7271032,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477601.2408326,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477601.2408326,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477633.2145998,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477633.2145998,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477633.6938894,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477686.8565784,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477686.8565784,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477687.8963335,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477687.9952013,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477809.6408157,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477810.2299383,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477810.2299383,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477811.1272917,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477811.1272917,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477811.6458232,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477811.6458232,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477812.2013745,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477812.590522,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477812.7758625,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477813.2231112,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477813.6098652,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477814.873405,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477815.159223,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477815.4484396,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477815.7239704,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477816.301242,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477816.301242,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477817.2696805,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477817.8896284,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477838.7688563,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477840.0232027,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477840.6091504,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477844.4459872,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477845.0172303,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477845.4737554,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477845.9242096,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477855.839406,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477856.1161823,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477856.427075,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477856.5701494,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477857.0331228,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477857.0331228,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477857.8408449,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477857.8408449,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477858.3755164,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477858.3755164,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477859.030153,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477859.1841102,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477860.2829788,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477872.276758,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477873.7131686,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477874.3188019,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477874.9378679,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477875.8999043,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477876.6188269,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477877.24102,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477879.0810115,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477890.0170302,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477890.2823892,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477894.5757735,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477895.6843169,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477895.90401,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477896.40597,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477896.5073276,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477896.990239,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477898.284355,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477900.669365,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477902.4819942,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477903.1430855,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477903.6100109,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477905.2339213,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477905.9141536,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477906.1011577,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477914.6579359,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477919.1718338,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477921.3121653,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477921.9039288,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477924.4554188,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477924.5735373,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477924.9898977,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477925.0704424,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477925.7486556,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477926.4329257,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477926.4329257,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477928.1151419,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477932.8820498,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477933.6510925,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477934.3181279,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477934.8846772,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477935.3349836,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477936.0568688,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477938.314958,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477938.7919116,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477940.0517986,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477940.931237,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477941.5246649,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477942.4777403,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477944.316777,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477945.059217,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477945.059217,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477945.68187,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477947.1278136,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477947.70977,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477950.4423406,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477951.0370736,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477952.153318,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477952.6372375,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477954.4968536,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477955.1025238,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477955.1025238,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477955.5550025,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477955.5550025,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477956.1158195,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477956.1158195,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477956.692737,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477956.692737,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477959.1099367,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477959.9313285,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477959.9313285,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477960.6631255,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477961.173781,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477961.7419844,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477963.1757452,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477963.1757452,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477964.3519208,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477964.5247502,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477965.0846336,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477965.6234639,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477965.6234639,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477966.3406792,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477966.9961023,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477967.2855082,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477968.5260851,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477969.8398342,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477971.1313884,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477971.1313884,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477971.961533,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477972.5598376,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477973.4521928,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477973.4521928,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477974.1387072,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477975.5209246,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477975.5209246,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477976.6610894,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477977.27276,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477981.2548964,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477981.5434856,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477982.1558099,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477982.1558099,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477982.8190873,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477982.8190873,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477983.700715,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477985.3287344,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477988.632927,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477989.9790378,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477990.645646,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477991.107157,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477991.2829735,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477991.72328,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477992.3160646,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477992.5820508,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477993.001787,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477993.2838972,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477994.3198152,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477995.015669,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477995.1720483,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477997.2620666,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477997.4130235,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477997.9097857,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477998.0598848,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477998.8618135,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477999.0321004,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759477999.6743722,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759477999.953294,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478006.3444126,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478007.4088845,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478008.191435,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478008.953406,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478022.0998504,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478022.696289,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478023.4871094,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478023.4871094,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478023.986344,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478029.014782,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478029.5993347,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478030.425862,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478031.9128692,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478034.817046,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478036.0351067,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478036.6908922,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478037.309728,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478037.4077523,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478038.7396557,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478039.1392956,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478039.2248774,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478039.7129261,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478039.7129261,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478041.9671595,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478045.7949042,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478046.466481,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478046.466481,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478047.0591922,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478047.0591922,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478047.544047,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478047.9382684,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478048.320645,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478050.304985,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478051.604171,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478052.1100214,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478052.706731,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478053.2969532,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478053.770832,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478054.430825,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478054.7094316,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478054.8981154,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478055.3510344,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478055.3510344,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478059.0449722,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478062.7316625,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478064.4468603,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478064.5352087,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478067.4303212,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478067.6155527,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478068.093461,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478068.3850355,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478068.5952556,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478068.8841476,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478069.2875545,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478069.496891,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478069.7419794,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478070.1758347,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478070.3176932,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478071.7598958,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478072.343188,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478074.0288842,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478074.144899,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478080.706045,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478081.3966715,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478082.8321168,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478084.3794005,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478085.508989,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478092.874014,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478094.3915167,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759478094.5521011,
+      "hand": "right",
+      "type": "cross"
+    },
+    {
+      "time": 1759478095.0697546,
+      "hand": "right",
+      "type": "cross"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "session_id": "20251003T081700Z",
+  "timestamp": "2025-10-03T08:17:00.760347Z",
+  "left_count": 1,
+  "right_count": 1,
+  "events": [
+    {
+      "time": 1759479417.8597684,
+      "hand": "left",
+      "type": "jab"
+    },
+    {
+      "time": 1759479417.8597684,
+      "hand": "right",
+      "type": "cross"
+    }
+  ]
+}
